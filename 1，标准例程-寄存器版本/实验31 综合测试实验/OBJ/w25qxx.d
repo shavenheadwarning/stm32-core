@@ -1,0 +1,9 @@
+..\obj\w25qxx.o: ..\HARDWARE\W25QXX\w25qxx.c
+..\obj\w25qxx.o: ..\HARDWARE\W25QXX\w25qxx.h
+..\obj\w25qxx.o: ..\SYSTEM\sys\sys.h
+..\obj\w25qxx.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\w25qxx.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\w25qxx.o: D:\tool\MDK\MDK5.23\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\w25qxx.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\w25qxx.o: ..\HARDWARE\SPI\spi.h
+..\obj\w25qxx.o: ..\SYSTEM\delay\delay.h
